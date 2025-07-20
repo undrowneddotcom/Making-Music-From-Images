@@ -1,9 +1,9 @@
-librosa==0.9.2
-numpy==2.2.6
+librosa
+numpy
 opencv-python-headless
-pandas==2.3.0
-pedalboard==0.9.17 
-Pillow==11.2.1 
-scipy==1.15.3 
-streamlit==1.45.1
+pandas
+pedalboard
+Pillow
+scipy
+streamlit
 altair<5
