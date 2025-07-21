@@ -335,6 +335,7 @@ with ps1:
 if img2load is not None:
     # Saves
     img = Image.open(img2load)
+    img = img.convert('RGB')
     img = img.save("img.jpg")
     
     # OpenCv Read
